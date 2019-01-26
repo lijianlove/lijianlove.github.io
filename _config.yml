@@ -112,3 +112,5 @@ friends: [
         href: "https://gitee.com/lijianlove/projects"
     }
 ]
+
+theme: jekyll-theme-merlot
