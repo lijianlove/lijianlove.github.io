@@ -1,18 +1,18 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: lijian Blog
+SEOTitle: 李健的博客 | lijian Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: 13522357341@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "lijian, lijian Blog, 李健的博客, java, 李健, java"
+url: "http://lijianlove.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -100,15 +100,15 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://zhengwuyang.com"
+        href: "https://gitee.com/lijianlove/projects"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书",
+        href: "https://gitee.com/lijianlove/projects"
     },{
         title: "Apple",
-        href: "https://apple.com"
+        href: "https://gitee.com/lijianlove/projects"
     },{
         title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        href: "https://gitee.com/lijianlove/projects"
     }
 ]
