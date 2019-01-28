@@ -138,6 +138,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/bak" />
       <recent name="$PROJECT_DIR$/img/20190128" />
     </key>
   </component>
@@ -207,12 +208,12 @@
       <option name="presentableId" value="Default" />
       <updated>1548486167600</updated>
       <workItem from="1548486170162" duration="1577000" />
-      <workItem from="1548655326701" duration="7736000" />
+      <workItem from="1548655326701" duration="7980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9313000" />
+    <option name="totallyTimeSpent" value="9557000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -354,7 +355,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-05-5分钟带你看完-WWDC-2018.md">
+    <entry file="file://$PROJECT_DIR$/_posts/bak/2018-06-05-5分钟带你看完-WWDC-2018.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-2370">
@@ -364,20 +365,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-07-26-利用-Debug-Memory-Graph-检测内测泄漏.md">
+    <entry file="file://$PROJECT_DIR$/_posts/bak/2017-07-26-利用-Debug-Memory-Graph-检测内测泄漏.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
             <caret selection-end-line="11" selection-end-column="3" />
           </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-06-ReactiveCocoa-进阶.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -401,7 +394,7 @@
     <entry file="file://$PROJECT_DIR$/img/20190128/mybatis_sqlsession.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-19-为博客添加-Gitalk-评论插件.md">
+    <entry file="file://$PROJECT_DIR$/_posts/bak/2017-12-19-为博客添加-Gitalk-评论插件.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="468">
@@ -411,7 +404,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-04-GCD-在-Swift-中的用法.md">
+    <entry file="file://$PROJECT_DIR$/_posts/bak/2017-10-04-GCD-在-Swift-中的用法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="450">
@@ -439,6 +432,24 @@
             <folding>
               <element signature="imports" expanded="true" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-26-test.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/bak/2016-01-06-ReactiveCocoa-进阶.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
