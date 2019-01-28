@@ -72,12 +72,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-01-01-Git 常用操作.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-01-01-Git 常用操作.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-01-01-Git 常用操作.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-01-20-MySQL 高级.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-20-MySQL 高级.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <first_editor>
+                <caret column="4" selection-start-column="4" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -98,6 +110,7 @@
       <find>featured-tags</find>
       <find>About</find>
       <find>TAGS</find>
+      <find>拉取远程dev 分支的代码</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -122,6 +135,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-10-10-自建DataBus.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2016-01-01-Git 常用操作.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-20-MySQL 高级.md" />
       </list>
     </option>
   </component>
@@ -269,16 +283,15 @@
       <option name="presentableId" value="Default" />
       <updated>1548486167600</updated>
       <workItem from="1548486170162" duration="1577000" />
-      <workItem from="1548655326701" duration="11711000" />
+      <workItem from="1548655326701" duration="11964000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13288000" />
+    <option name="totallyTimeSpent" value="13541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -593,9 +606,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-01-01-Git 常用操作.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-20-MySQL 高级.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <first_editor>
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
