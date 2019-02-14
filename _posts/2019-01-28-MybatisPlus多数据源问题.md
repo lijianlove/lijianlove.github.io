@@ -29,6 +29,7 @@ tags:
 
 * 该方式是重写了datasource ， 也就是说返回的 connection 对象是指定数据源的，但是mybatis-plus 中ServiceImpl 的批量处理方法并不适合，因为批量处理是基于 SqlSession 的，执行一批任务后 session.flush();所以提供了下面的防范支持基于 SqlSession 的多数据源支持
 
+* 根据 datasource 获取 connection ， 根据 connection.createStatement() 获取到 Statement ， 借助 statement.addBatch 以及 clearBatch ， executeBatch 实现批处理
 
 #### 切换 SqlSession 的数据源
 
