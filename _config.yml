@@ -1,10 +1,10 @@
 # Site settings
-title: lijian Blog
-SEOTitle: 李健的博客 | lijian Blog
+title: lj Blog
+SEOTitle: lj的博客 | lj Blog
 header-img: img/post-bg-desk.jpg
 email: 13522357341@163.com
 description: "Every failure is leading towards success."
-keyword: "lijian, lijian Blog, 李健的博客, java, 李健, java"
+keyword: "lj, lj Blog, lj的博客, java, java"
 url: "http://www.lijianlove.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lijianlove/lijianlove.github.io.git" # you code repository
