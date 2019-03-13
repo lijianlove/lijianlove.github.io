@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00856fa8-c518-44fe-a208-fc776a070a41" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="00856fa8-c518-44fe-a208-fc776a070a41" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,12 +35,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-03-13-Druid 自定义拦截器.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-03-13-Druid 自定义拦截器.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-13-Druid 自定义拦截器.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="539">
-                <caret line="77" column="2" selection-start-line="77" selection-start-column="2" selection-end-line="77" selection-end-column="2" />
+              <first_editor relative-caret-position="79">
+                <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
                 <folding>
                   <element signature="imports" expanded="true" />
                 </folding>
@@ -64,6 +62,29 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="2019031302.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/201903/2019031302.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="89">
+              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -80,6 +101,8 @@
       <find>TAGS</find>
       <find>拉取远程dev 分支的代码</find>
       <find>master</find>
+      <find>lijian</find>
+      <find>李健</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -100,17 +123,17 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-10-关于DataBus 核心点思考.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-10-自建DataBus.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2016-01-01-Git 常用操作.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-20-MySQL 高级.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-30-API接口安全思考.md" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/_posts/2018-12-12-简历.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-28-MybatisPlus多数据源问题.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-04-分布式ID思考.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-05-MySQL kill 线程.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-05-正向代理和反向代理.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-13-Druid 自定义拦截器.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -142,7 +165,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -290,16 +313,15 @@
       <workItem from="1550135203866" duration="1113000" />
       <workItem from="1551784548550" duration="7043000" />
       <workItem from="1551856241215" duration="2810000" />
-      <workItem from="1552464462968" duration="1929000" />
+      <workItem from="1552464462968" duration="2232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35171000" />
+    <option name="totallyTimeSpent" value="35474000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -311,11 +333,12 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4617647" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4617647" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -327,7 +350,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -366,13 +388,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/keynote.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -598,13 +613,6 @@
         <state relative-caret-position="-57" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="87" selection-start-line="87" selection-end-line="87" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/feed.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -613,13 +621,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-12-简历.md" />
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-01-01-Git 常用操作.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -680,16 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-10-自建DataBus.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor>
-            <caret selection-end-line="11" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-正向代理和反向代理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -710,16 +701,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/201903/2019031302.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-10-自建DataBus.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-line="11" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-13-Druid 自定义拦截器.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="539">
-            <caret line="77" column="2" selection-start-line="77" selection-start-column="2" selection-end-line="77" selection-end-column="2" />
+          <first_editor relative-caret-position="79">
+            <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
             <folding>
               <element signature="imports" expanded="true" />
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
         </state>
       </provider>
     </entry>
