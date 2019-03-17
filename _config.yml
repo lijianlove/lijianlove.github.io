@@ -1,7 +1,7 @@
 # Site settings
 title: lj Blog
 SEOTitle: lj的博客 | lj Blog
-header-img: img/post-bg-desk.jpg
+#header-img: img/post-bg-desk.jpg
 email: 13522357341@163.com
 description: "Every failure is leading towards success."
 keyword: "lj, lj Blog, lj的博客, java, java"
