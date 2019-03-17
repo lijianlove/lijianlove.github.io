@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00856fa8-c518-44fe-a208-fc776a070a41" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-10-Linux 基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-09-10-Linux 基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-16-Linux Vim 常用操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-09-16-Linux Vim 常用操作.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-09-16-Linux Vim 常用操作.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="484">
-                <caret line="144" column="2" selection-start-line="144" selection-start-column="2" selection-end-line="144" selection-end-column="2" />
+              <first_editor relative-caret-position="224">
+                <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
               </first_editor>
               <second_editor />
             </state>
@@ -278,12 +278,12 @@
       <workItem from="1551784548550" duration="7043000" />
       <workItem from="1551856241215" duration="2810000" />
       <workItem from="1552464462968" duration="2995000" />
-      <workItem from="1552530481128" duration="37621000" />
+      <workItem from="1552530481128" duration="37855000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73858000" />
+    <option name="totallyTimeSpent" value="74092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -299,7 +299,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4617647" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4617647" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.26979" />
@@ -702,8 +702,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-16-Linux Vim 常用操作.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="484">
-            <caret line="144" column="2" selection-start-line="144" selection-start-column="2" selection-end-line="144" selection-end-column="2" />
+          <first_editor relative-caret-position="224">
+            <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
           </first_editor>
           <second_editor />
         </state>
