@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00856fa8-c518-44fe-a208-fc776a070a41" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2017-09-22-Linux 计划任务 crontab.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-09-25-Linux 命令执行顺序与管道.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-10-Linux 基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-09-10-Linux 基础.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-13-Linux 用户及文件权限管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-09-13-Linux 用户及文件权限管理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-15-Linux 目录结构及文件基本操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-09-15-Linux 目录结构及文件基本操作.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-16-Linux Vim 常用操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-09-16-Linux Vim 常用操作.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-16-Linux 文件打包与压缩.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-09-16-Linux 文件打包与压缩.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-16-Linux 环境变量与文件查找.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-09-16-Linux 环境变量与文件查找.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-17-Linux 文件系统与磁盘管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-09-17-Linux 文件系统与磁盘管理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-12- ElasticSearch 分布式架构.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-03-15- ElasticSearch 分布式架构.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-12- ElasticSearch 初识.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 初识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-12- ElasticSearch 简单操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 简单操作.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-12- ElasticSearch 聚合函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 聚合函数.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +17,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-09-17-Linux 文件系统与磁盘管理.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-09-17-Linux 文件系统与磁盘管理.md">
+      <file leaf-file-name="2018-03-12- ElasticSearch 简单操作.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 简单操作.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="60">
@@ -34,8 +29,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-09-16-Linux 环境变量与文件查找.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-09-16-Linux 环境变量与文件查找.md">
+      <file leaf-file-name="2018-03-12- ElasticSearch 聚合函数.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 聚合函数.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-03-15- ElasticSearch 分布式架构.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-03-15- ElasticSearch 分布式架构.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-03-12- ElasticSearch 初识.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 初识.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="60">
@@ -46,96 +65,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-09-17-Linux 帮助命令.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-09-17-Linux 帮助命令.md">
+      <file leaf-file-name="2019-03-05-正向代理和反向代理.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-正向代理和反向代理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="120">
-                <caret line="61" column="23" lean-forward="true" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-09-10-Linux 基础.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-09-10-Linux 基础.md">
+      <file leaf-file-name="2019-01-28-MybatisPlus多数据源问题.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-MybatisPlus多数据源问题.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+                <folding>
+                  <element signature="imports" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-09-13-Linux 用户及文件权限管理.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-09-13-Linux 用户及文件权限管理.md">
+      <file leaf-file-name="2018-04-22- ElasticSearch 元数据.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch 元数据.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-09-15-Linux 目录结构及文件基本操作.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-09-15-Linux 目录结构及文件基本操作.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-09-16-Linux Vim 常用操作.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-09-16-Linux Vim 常用操作.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-09-16-Linux 文件打包与压缩.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-09-16-Linux 文件打包与压缩.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="135">
-                <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-09-22-Linux 计划任务 crontab.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-09-22-Linux 计划任务 crontab.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="209">
-                <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-09-25-Linux 命令执行顺序与管道.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-Linux 命令执行顺序与管道.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="210">
-                <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <first_editor relative-caret-position="555">
+                <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -185,9 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-01-28-支付回调.md" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-10-10-关于DataBus 核心点思考.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-20-MySQL 高级.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-30-API接口安全思考.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-12-简历.md" />
@@ -234,6 +193,11 @@
         <option value="$PROJECT_DIR$/_posts/2017-09-17-Linux 帮助命令.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-22-Linux 计划任务 crontab.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-25-Linux 命令执行顺序与管道.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 初识.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 简单操作.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 聚合函数.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-15- ElasticSearch 分布式架构.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch 元数据.md" />
       </list>
     </option>
   </component>
@@ -404,12 +368,12 @@
       <workItem from="1553651087867" duration="29997000" />
       <workItem from="1554293490658" duration="6987000" />
       <workItem from="1554705295738" duration="45047000" />
-      <workItem from="1555912549766" duration="12770000" />
+      <workItem from="1555912549766" duration="14498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196442000" />
+    <option name="totallyTimeSpent" value="198170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -480,7 +444,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bak/2016-01-06-ReactiveCocoa-进阶.md" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -530,16 +493,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-12-简历.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-MybatisPlus多数据源问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-20-MySQL 高级.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -595,16 +548,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="225">
             <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-正向代理和反向代理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -711,46 +654,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="765">
             <caret line="51" selection-start-line="51" selection-end-line="51" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-12- ElasticSearch 初识.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="570">
-            <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-12- ElasticSearch 分布式架构.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-12- ElasticSearch 聚合函数.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="780">
-            <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-12- ElasticSearch 简单操作.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>
@@ -923,8 +826,81 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-Linux 命令执行顺序与管道.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="210">
-            <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <first_editor>
+            <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-正向代理和反向代理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 聚合函数.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 简单操作.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 初识.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-MybatisPlus多数据源问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-15- ElasticSearch 分布式架构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch 元数据.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="555">
+            <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>

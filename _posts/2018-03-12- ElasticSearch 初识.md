@@ -2,7 +2,7 @@
 layout:     post
 title:      ElasticSearch 初识
 subtitle:   ElasticSearch 初识
-date:       2019-03-12
+date:       2018-03-12
 author:     lijian
 header-img: img/post-bg-hacker.jpg
 catalog: true
