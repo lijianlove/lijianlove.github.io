@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00856fa8-c518-44fe-a208-fc776a070a41" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2017-09-22-Linux 计划任务 crontab.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2017-09-25-Linux 命令执行顺序与管道.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-10-Linux 基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-09-10-Linux 基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-13-Linux 用户及文件权限管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-09-13-Linux 用户及文件权限管理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-15-Linux 目录结构及文件基本操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-09-15-Linux 目录结构及文件基本操作.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-16-Linux Vim 常用操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-09-16-Linux Vim 常用操作.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-16-Linux 文件打包与压缩.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-09-16-Linux 文件打包与压缩.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-16-Linux 环境变量与文件查找.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-09-16-Linux 环境变量与文件查找.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-17-Linux 文件系统与磁盘管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-09-17-Linux 文件系统与磁盘管理.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,12 +22,120 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-09-17-Linux 文件系统与磁盘管理.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-09-17-Linux 文件系统与磁盘管理.md">
+      <file leaf-file-name="2017-09-17-Linux 文件系统与磁盘管理.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-17-Linux 文件系统与磁盘管理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="270">
-                <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-09-16-Linux 环境变量与文件查找.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-16-Linux 环境变量与文件查找.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-09-17-Linux 帮助命令.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-17-Linux 帮助命令.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="120">
+                <caret line="61" column="23" lean-forward="true" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-09-10-Linux 基础.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-10-Linux 基础.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-09-13-Linux 用户及文件权限管理.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-13-Linux 用户及文件权限管理.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-09-15-Linux 目录结构及文件基本操作.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-15-Linux 目录结构及文件基本操作.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-09-16-Linux Vim 常用操作.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-16-Linux Vim 常用操作.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-09-16-Linux 文件打包与压缩.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-16-Linux 文件打包与压缩.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-09-22-Linux 计划任务 crontab.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-22-Linux 计划任务 crontab.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="209">
+                <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-09-25-Linux 命令执行顺序与管道.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-Linux 命令执行顺序与管道.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="210">
+                <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -107,6 +224,16 @@
         <option value="$PROJECT_DIR$/_posts/2019-03-12- ElasticSearch 聚合函数.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-12- ElasticSearch 分布式架构.md" />
         <option value="$PROJECT_DIR$/_posts/2018-09-17-Linux 文件系统与磁盘管理.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-10-Linux 基础.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-13-Linux 用户及文件权限管理.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-15-Linux 目录结构及文件基本操作.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-16-Linux Vim 常用操作.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-16-Linux 文件打包与压缩.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-16-Linux 环境变量与文件查找.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-17-Linux 文件系统与磁盘管理.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-17-Linux 帮助命令.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-22-Linux 计划任务 crontab.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-25-Linux 命令执行顺序与管道.md" />
       </list>
     </option>
   </component>
@@ -277,12 +404,12 @@
       <workItem from="1553651087867" duration="29997000" />
       <workItem from="1554293490658" duration="6987000" />
       <workItem from="1554705295738" duration="45047000" />
-      <workItem from="1555912549766" duration="2480000" />
+      <workItem from="1555912549766" duration="12770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186152000" />
+    <option name="totallyTimeSpent" value="196442000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -301,7 +428,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.4617647" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2819063" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2819063" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -353,9 +480,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bak/2017-12-19-为博客添加-Gitalk-评论插件.md" />
-    <entry file="file://$PROJECT_DIR$/bak/2017-10-04-GCD-在-Swift-中的用法.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-26-test.md" />
     <entry file="file://$PROJECT_DIR$/bak/2016-01-06-ReactiveCocoa-进阶.md" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -535,16 +659,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-13-Linux 用户及文件权限管理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -557,36 +671,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="90">
             <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-16-Linux Vim 常用操作.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-15-Linux 目录结构及文件基本操作.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="95" column="22" selection-start-line="95" selection-start-column="22" selection-end-line="95" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-10-Linux 基础.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-129">
-            <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           </first_editor>
           <second_editor />
         </state>
@@ -746,31 +830,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-16-Linux 文件打包与压缩.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-10-Linux 基础.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="285">
-            <caret line="94" column="13" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-16-Linux 环境变量与文件查找.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-13-Linux 用户及文件权限管理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="75">
-            <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-17-Linux 文件系统与磁盘管理.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-15-Linux 目录结构及文件基本操作.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-16-Linux Vim 常用操作.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="270">
-            <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-16-Linux 文件打包与压缩.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-16-Linux 环境变量与文件查找.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-17-Linux 帮助命令.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="120">
+            <caret line="61" column="23" lean-forward="true" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-17-Linux 文件系统与磁盘管理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-22-Linux 计划任务 crontab.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="209">
+            <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-Linux 命令执行顺序与管道.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
