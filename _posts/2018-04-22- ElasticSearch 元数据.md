@@ -37,7 +37,22 @@ tags:
 ```
 * _index 
 * 1.document 所在的索引
-* 2.
+* 2.类似的数据放在一个index 中,不能将所有的数据放在一个index 中
+* 3.索引名称必须是小写的，不能用下划线开头，不能包含都好
 
 * _type
 * 1.document 所在的type
+* 2.一个索引被划分为多个type,逻辑上对index 中的数据进行分类
+* 3.type 名称可以是大写或者小写，不能用下划线开头，不能包含逗号
+
+* _id
+* 1.document 的唯一标示，与index 和 type 一起，可以唯一标识和定位一个document
+* 2.可以手动指定也可以有es 自动生成
+
+* _source
+* 1.在创建 document 时候的 body 串
+* 2.可以指定返回字段，如果是多个字段，用逗号分隔
+```java
+GET /test_index/test_type/2?_source=test_content
+```
+

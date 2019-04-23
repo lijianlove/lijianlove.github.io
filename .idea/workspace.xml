@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="00856fa8-c518-44fe-a208-fc776a070a41" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-12- ElasticSearch 分布式架构.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-03-15- ElasticSearch 分布式架构.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-12- ElasticSearch 初识.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 初识.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-12- ElasticSearch 简单操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 简单操作.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-12- ElasticSearch 聚合函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 聚合函数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch 元数据.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch 元数据.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +31,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="15">
-                <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+                <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -45,8 +42,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-03-15- ElasticSearch 分布式架构.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -82,7 +79,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="15">
-                <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+                <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
                 <folding>
                   <element signature="imports" expanded="true" />
                 </folding>
@@ -95,9 +92,21 @@
       <file leaf-file-name="2018-04-22- ElasticSearch 元数据.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch 元数据.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="555">
-                <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-04-22- ElasticSearch id 手动指定和自动生成.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch id 手动指定和自动生成.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="59">
+                <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -147,7 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-01-20-MySQL 高级.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-30-API接口安全思考.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-12-简历.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-28-MybatisPlus多数据源问题.md" />
@@ -197,6 +205,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 简单操作.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 聚合函数.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-15- ElasticSearch 分布式架构.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch id 手动指定和自动生成.md" />
         <option value="$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch 元数据.md" />
       </list>
     </option>
@@ -368,12 +377,12 @@
       <workItem from="1553651087867" duration="29997000" />
       <workItem from="1554293490658" duration="6987000" />
       <workItem from="1554705295738" duration="45047000" />
-      <workItem from="1555912549766" duration="14498000" />
+      <workItem from="1555912549766" duration="25761000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198170000" />
+    <option name="totallyTimeSpent" value="209433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -444,16 +453,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor>
-            <caret lean-forward="true" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tags.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -847,7 +846,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="15">
-            <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
@@ -877,7 +876,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="15">
-            <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
             <folding>
               <element signature="imports" expanded="true" />
             </folding>
@@ -889,8 +888,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-03-15- ElasticSearch 分布式架构.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch id 手动指定和自动生成.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="59">
+            <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
@@ -898,9 +907,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch 元数据.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="555">
-            <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
