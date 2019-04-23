@@ -55,4 +55,6 @@ tags:
 ```java
 GET /test_index/test_type/2?_source=test_content
 ```
-
+* _version
+* 新创建的时候是 1 ，以后每次修改或者删除都会修改 +1，
+* 先删除一个 document , 在创建该 document， version 为 deleted +1 
