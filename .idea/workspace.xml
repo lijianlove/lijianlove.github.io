@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00856fa8-c518-44fe-a208-fc776a070a41" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-04-25- ElasticSearch 全量替换、强制创建以及lazy delete 机制 .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-04-26- ElasticSearch 并发冲突问题理解.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch 元数据.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch 元数据.md" afterDir="false" />
-    </list>
+    <list default="true" id="00856fa8-c518-44fe-a208-fc776a070a41" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +11,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-04-26- ElasticSearch 并发冲突问题理解.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-04-26- ElasticSearch 并发冲突问题理解.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-04-26- ElasticSearch 并发冲突问题理解.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="225">
-                <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+              <first_editor relative-caret-position="495">
+                <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -33,7 +28,19 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="49">
-                <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+                <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-04-30- ElasticSearch partial update.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-04-30- ElasticSearch partial update.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="13">
+                <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -83,7 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-01-28-MybatisPlus多数据源问题.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-04-分布式ID思考.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-05-MySQL kill 线程.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-05-正向代理和反向代理.md" />
@@ -134,6 +140,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-04-25- ElasticSearch 全量替换、强制创建以及lazy delete 机制 .md" />
         <option value="$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch 元数据.md" />
         <option value="$PROJECT_DIR$/_posts/2018-04-26- ElasticSearch 并发冲突问题理解.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-04-30- ElasticSearch partial update.md" />
       </list>
     </option>
   </component>
@@ -299,12 +306,12 @@
       <workItem from="1553651087867" duration="29997000" />
       <workItem from="1554293490658" duration="6987000" />
       <workItem from="1554705295738" duration="45047000" />
-      <workItem from="1555912549766" duration="34393000" />
+      <workItem from="1555912549766" duration="45897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="218065000" />
+    <option name="totallyTimeSpent" value="229569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -320,10 +327,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4617647" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4617647" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2819063" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2819063" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -375,11 +382,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sw.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1032" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/codecov.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -829,7 +831,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="49">
-            <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+            <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
           </first_editor>
           <second_editor />
         </state>
@@ -838,8 +840,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-04-26- ElasticSearch 并发冲突问题理解.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="225">
-            <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+          <first_editor relative-caret-position="495">
+            <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-30- ElasticSearch partial update.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="13">
+            <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
