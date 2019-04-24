@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00856fa8-c518-44fe-a208-fc776a070a41" name="Default" comment="" />
+    <list default="true" id="00856fa8-c518-44fe-a208-fc776a070a41" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 初识.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 初识.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,12 +13,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-04-26- ElasticSearch 并发冲突问题理解.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-04-26- ElasticSearch 并发冲突问题理解.md">
+      <file leaf-file-name="2018-03-12- ElasticSearch 初识.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 初识.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="495">
-                <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+              <first_editor relative-caret-position="127">
+                <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -27,20 +29,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch 元数据.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="49">
-                <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-04-30- ElasticSearch partial update.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-04-30- ElasticSearch partial update.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="285">
-                <caret line="57" column="10" lean-forward="true" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
               </first_editor>
               <second_editor />
             </state>
@@ -51,20 +41,32 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-05-05- ElasticSearch mget.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="161">
-                <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+              <first_editor relative-caret-position="344">
+                <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-05-05- ElasticSearch bulk.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-05-05- ElasticSearch bulk.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-05-05- ElasticSearch bulk.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="75">
-                <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <first_editor relative-caret-position="134">
+                <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-05-06- ElasticSearch document 路由原理.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-05-06- ElasticSearch document 路由原理.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="240">
+                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -114,7 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-03-05-正向代理和反向代理.md" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/_posts/2019-03-13-Druid 自定义拦截器.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-14-Nginx reload 流程分析.md" />
@@ -154,7 +155,6 @@
         <option value="$PROJECT_DIR$/_posts/2017-09-17-Linux 帮助命令.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-22-Linux 计划任务 crontab.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-25-Linux 命令执行顺序与管道.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 初识.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 简单操作.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 聚合函数.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-15- ElasticSearch 分布式架构.md" />
@@ -165,6 +165,8 @@
         <option value="$PROJECT_DIR$/_posts/2018-04-30- ElasticSearch partial update.md" />
         <option value="$PROJECT_DIR$/_posts/2018-05-05- ElasticSearch mget.md" />
         <option value="$PROJECT_DIR$/_posts/2018-05-05- ElasticSearch bulk.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 初识.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-05-06- ElasticSearch document 路由原理.md" />
       </list>
     </option>
   </component>
@@ -330,12 +332,12 @@
       <workItem from="1553651087867" duration="29997000" />
       <workItem from="1554293490658" duration="6987000" />
       <workItem from="1554705295738" duration="45047000" />
-      <workItem from="1555912549766" duration="48724000" />
+      <workItem from="1555912549766" duration="51384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="232396000" />
+    <option name="totallyTimeSpent" value="235056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -351,7 +353,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4617647" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4617647" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2819063" />
@@ -377,7 +379,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2819063" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2819063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -389,7 +391,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4617647" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4617647" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="10" />
@@ -406,7 +408,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-12-简历.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-20-MySQL 高级.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -760,16 +761,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 初识.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-MybatisPlus多数据源问题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -837,16 +828,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch 元数据.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="49">
-            <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-04-26- ElasticSearch 并发冲突问题理解.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -867,11 +848,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-12- ElasticSearch 初识.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="127">
+            <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-22- ElasticSearch 元数据.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-05-05- ElasticSearch mget.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="161">
-            <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <first_editor relative-caret-position="344">
+            <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
@@ -880,8 +881,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-05-05- ElasticSearch bulk.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="75">
-            <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <first_editor relative-caret-position="134">
+            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-06- ElasticSearch document 路由原理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="240">
+            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           </first_editor>
           <second_editor />
         </state>
