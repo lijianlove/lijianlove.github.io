@@ -32,4 +32,27 @@ tags:
 
 因为路由公式基于这个数，如果这里改变，那么就会导致 shard 计算有问题，会导致document 路由到错误的primary shard , 所以这里不可变，replica shard 是可以修改的。学习到这里，想到了 redis 的的处理机制，数据基于槽，机器数量改变会移动槽中的数据
 
-#### document 增删改查原理
+#### document 增删改原理
+一个操作 document 请求打入到任意一个node  上，该node 就是 coordinate node (协调节点)， 该node 基于上面的路由算法进行路由，可以知道应该哪个 primary shard , 再将该请求发送到对应的primary shard 上, primary shard 处理完毕 document 之后，就会将数据同步到自己的 replica shard 上去，coordinate node 发现 primary shard , replica shard 都处理完毕，就会将结果反馈给客户端
+
+对于增删改操作，只能由 primary shard 进行处理，不能由 replica shard 进行处理。
+
+#### 写一致性
+我们在发送任何一个增删改操作的时候，我们可以带上一个参数 consistency ，指明想要的一致性。 比如 one, all , quorum
+```java
+PUT /index/type/id?consistency=one
+```
+
+* one 只要有一个 primary shard 是 active 活跃可用的就可以执行。
+* all 必须所有的 primay shard 和 replica shard 都是活跃的才可以执行
+* quorum 默认就是它，要所有的shard 中必须大部分是活跃可用的才可以执行，但是只有当 number_of_replica 大于1 才会生效
+
+quonum=((primary + number_of_replicas)/2)+1
+* quonum 不齐全，默认 wait 1分钟，最后 timeout,我们可以在写操作的时候加一个timeout 参数,单位默认是毫秒，比如 30毫秒
+```java
+PUT /index/type/id?timeout=30
+```
+* 如果节点数小于 quonum , 可能导致 quonum 不全，导致无法进行任何写操作
+
+
+
