@@ -37,6 +37,9 @@ tags:
 
 对于增删改操作，只能由 primary shard 进行处理，不能由 replica shard 进行处理。
 
+#### document 查询原理
+对于读请求，不一定由 primary shard 进行处理，可能有 replica shard 进行处理，采用 round-robin 随机轮询算法，尽量让 primary shard 和 replica shard 均匀的负载请求
+
 #### 写一致性
 我们在发送任何一个增删改操作的时候，我们可以带上一个参数 consistency ，指明想要的一致性。 比如 one, all , quorum
 ```java
