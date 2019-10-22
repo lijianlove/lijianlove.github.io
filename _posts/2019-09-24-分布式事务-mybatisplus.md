@@ -14,6 +14,8 @@ tags:
 ### 简介
 mybatis-plus 提供了一个简单的基于mq 的分布式事务消息,但是需要注意的是他其实就是一个正常的队列,只不过是持久化等做了处理.实际上并不是一个标准的分布式事务
 
+官方并不支持强一致性事务：
+https://gitee.com/baomidou/dynamic-datasource-spring-boot-starter/wikis/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98?sort_id=1030627
 ### 开发
 
 > 暂时支持 rabbit 实现可靠消息分布式事务 3.1.1 以上版本
